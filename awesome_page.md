@@ -2,3 +2,5 @@
 * Evan is a **great** teammate
 * Danny has a *large* beard
 [(www.beards.com)]
+
+KIT, TEACHER EXTRAORDINAIRE
